@@ -1,3 +1,6 @@
+
+/*examples */
+
 USE hxdb
 go
 
